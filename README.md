@@ -1,3 +1,5 @@
+<h1 align="center">Bianca Vitorino de Souza Melaré 👩🏻‍💻 </h1>
+
 ### Hi there 👋
 
 ### Contatos:
