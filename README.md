@@ -10,7 +10,7 @@ In each new activity I propose to perform, since a simple task until a complex c
   </td>
  <td width="30%">
   <p align="center">
-<img src="imagens/git (1).png/" width="250" height="250"/>
+<img src="imagens/git (1).png/" width="270" height="270"/>
 </p>
   </td></tr>
 </table>
