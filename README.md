@@ -23,8 +23,8 @@ In each new activity I propose to perform, since a simple task until a complex c
 <h2>Statistics📈</h2>
 <br>
 <div style="display: inline_block" align="center">
- <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Biancamelare&show_icons=true&theme=tokyonight"/> 
- <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biancamelare&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Biancamelare&show_icons=true&theme=dracula"/> 
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biancamelare&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <h2>Technologies📱</h2>
 <br>
