@@ -26,7 +26,7 @@ In each new activity I propose to perform, since a simple task until a complex c
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Biancamelare&show_icons=true&theme=dracula"/> 
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biancamelare&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<h2>Technologies and Tools📱</h2>
+<h2>Technologies📱</h2>
 <br>
 <div style="display: inline_block" align="center">
  <img align="center" alt="HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
