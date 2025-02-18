@@ -4,7 +4,7 @@
 <tr> <td width="70%">
 Brazilian. Student. Eldest sister. Friend. Book lover. Determined. Dreamy girl.
 <br>
-I am System Analysis student at Fatec Sorocaba (6/6 semesters). 
+I have a degree in System Analysis from Fatec Sorocaba. 
 <br>
 In each new activity I propose to perform, since a simple task until a complex college project, I try to do my best and collaborate as much as possible with everyone involved, always aiming to acquire new experiences and knowledge.😊👩🏻‍💻
 <br><br>
